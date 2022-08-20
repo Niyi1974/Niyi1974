@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niyi1974
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full-Stack Web Development.
-- 💞️ I’m looking to collaborate on Fullstack web development using Typescript, JavaScript, React, Bootstrap, React Native etc.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning Android Development.
+- 💞️ I’m looking to collaborate on Android development using Kotlin and Java.
 - 📫 How to reach me: surajuolaniyi@gmail.com, surajuolaniyi@yahoo.com
 
 <!---
