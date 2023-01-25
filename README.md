@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niyi1974
 - 👀 I’m interested in Java Applications Development.
 - 🌱 I’m currently learning Java Web Applications Development.
-- 💞️ I’m looking to collaborate on Java development using Java and Spring Boot.
+- 💞️ I’m looking to collaborate on Java Application development using Java and Spring Boot.
 - 📫 How to reach me: surajuolaniyi@gmail.com, surajuolaniyi@yahoo.com
 
 <!---
